@@ -1,0 +1,4 @@
+https://github.com/geethikatesting/GSK.git
+ Manual testing
+core java
+selenium
